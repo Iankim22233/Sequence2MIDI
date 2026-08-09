@@ -1,5 +1,5 @@
 # Sequence2MIDI
-
+used for onlinesequencer.net
 Turn step sequences into MIDI files.
 
 ## Status
