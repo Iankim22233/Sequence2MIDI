@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+build/
+dist/
+
+# Node
+node_modules/
+
+# Editors
+.vscode/
+.idea/
+
+# Generated audio / MIDI output
+*.wav
+*.aiff
+*.mid
+*.midi
+out/
