@@ -7,3 +7,12 @@ Please note that this application is Mac only.
 
 # Download
 Only the .zip is required for the download.
+Once the .zip is downloaded, uncompress it and boom, done.
+
+# How to use
+Select either .mid or.sequence file and press enter.
+You should see the output (if it was a midi then it is a sequence) highlighted.
+
+
+
+Please give credits if you are planning to modify and distribute this.
