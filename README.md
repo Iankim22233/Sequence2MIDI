@@ -14,5 +14,5 @@ Select either .mid or.sequence file and press enter.
 You should see the output (if it was a midi then it is a sequence) highlighted.
 
 
-
+# Misc
 Please give credits if you are planning to modify and distribute this.
