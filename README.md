@@ -1,5 +1,7 @@
 # Sequence2MIDI
-used for onlinesequencer.net
+Used for onlinesequencer.net
+This application is Mac only.
+
 Turn step sequences into MIDI files.
 
 ## Status
